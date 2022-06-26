@@ -1,5 +1,6 @@
-Ping Project
-Description
+Project Name:Ping
+
+## Abstract
 The project aims to provide the below functionalities:
 
 Sign-up
@@ -13,13 +14,13 @@ Sign-in
   * Sorting Profile
   * ViewALl Profile
  
-Software required
+## Software Requirements of the project
   * Java 1.8
   * JDBC
   * Eclipse
   * Oracle SQL
 
-Project Structure
+## Project-Structure
 
 Ping View Layer
   * Ping view
@@ -51,6 +52,6 @@ Ping Utility Layer
 Ping Exception Layer
   * Reserved Word Exception
 
-
-Running the file
-Run the PingView file to start the project
+## To run this file go to the given path
+[Run ping View]
+(ping/src/main/java/com/ping/view/PingView.java)
